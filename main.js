@@ -47,7 +47,7 @@ function tocaSomTic(){
 document.querySelector('.tecla_tic').play;
 
 function tocasomtom () {
-    document.querySelector('#tecla_tom').onclick = tocasomtom;
+    document.querySelector('#tecla_tom').play;
 }
 
 document.querySelector('.tecla_tom').onclick = tocasomtom;
